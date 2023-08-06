@@ -1,3 +1,8 @@
 # Airlines_Project
-its about the Ticket booking System of Airlines
-I upload no of files in this project for which the main frame had along with login frame
+This app is  about About Ticket booking System.
+In this app we have facilities like AddCustomer,SearchCustomer,AddFlight,BookFlight,ViewTicket,AddAdmi
+In this app we have Login Feature with username and password.we have Addadmin feature for adding your these details but due to security reasons Admin details registered by system head only.
+After that we created the mainframe using JFrame class and add desktoppane to it.
+then add menus Customer,Flight,Ticket,Admin.
+Add menu items in those four menus as I mentioned in the above.we Implement these features using JInternalFrame class.
+
